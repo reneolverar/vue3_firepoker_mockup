@@ -1,0 +1,228 @@
+{
+  "games": [
+    {
+      "name": "Firepoker",
+      "description": "Description",
+      "category": "Scrum: 0, ½, 1, 2, 3, 5, 8, 13, 20, 40, 100 and ?",
+      "stories": [
+        "1d233c7c-85f9-4a6e-b2ea-fbc8373e23ad",
+        "553c45ca-de10-48fb-bfda-58cf1a0516db",
+        "d8473915-3d36-43d0-b898-5b648bae1b69"
+      ],
+      "userName": "Rene",
+      "organizer": "User1",
+      "participants": [
+        {
+          "id": "User1",
+          "userName": "Rene(moderator)"
+        }
+      ],
+      "id": "d1a2b5c8-5f7f-4b03-b9d2-bf28469e35a6"
+    },
+    {
+      "name": "Firepoker 2",
+      "description": "Description",
+      "category": "Scrum: 0, ½, 1, 2, 3, 5, 8, 13, 20, 40, 100 and ?",
+      "stories": [
+        "29c3e7fa-a179-40a5-9442-946f97fe8dff",
+        "5df1a7fd-1813-45d2-af2b-85773b9b9002",
+        "62858f3f-f0f6-4817-84b8-281c89d0385d"
+      ],
+      "userName": "Emir",
+      "organizer": "User2",
+      "participants": [
+        {
+          "id": "User2",
+          "userName": "Emir(moderator)"
+        },
+        {
+          "id": "User1",
+          "userName": "Rene"
+        }
+      ],
+      "id": "dae9d3a6-c29e-48c5-9129-c92f5d695643"
+    },
+    {
+      "name": "Firepoker 3",
+      "description": "Description",
+      "category": "Scrum: 0, ½, 1, 2, 3, 5, 8, 13, 20, 40, 100 and ?",
+      "stories": [
+        "6fe35f9b-124e-4ac1-9e39-0c565b980a46",
+        "148553da-5b3b-45e4-85c2-1b17077e8ad6",
+        "56a90579-1163-4836-9c3e-324654faabbb"
+      ],
+      "userName": "Rene",
+      "organizer": "User1",
+      "participants": [
+        {
+          "id": "User1",
+          "userName": "Rene(moderator)"
+        }
+      ],
+      "id": "c3d8732a-ac13-43d3-9878-35c0420cb9b0"
+    },
+    {
+      "name": "Firepoker 4",
+      "description": "Description",
+      "category": "Scrum: 0, ½, 1, 2, 3, 5, 8, 13, 20, 40, 100 and ?",
+      "stories": [
+        "7ec25bdb-82c5-4f77-95c7-a5347c18d87c",
+        "e3c3778c-e688-4746-88f6-aa99581979e9",
+        "64cb6324-6cb0-4cbb-a830-54d2be7f6b90"
+      ],
+      "userName": "Rene",
+      "organizer": "User1",
+      "participants": [
+        {
+          "id": "User1",
+          "userName": "Rene(moderator)"
+        }
+      ],
+      "id": "f3eefbea-0cb7-4e8b-801c-f82a5f676a37"
+    },
+    {
+      "name": "Firepoker 5",
+      "description": "Description",
+      "category": "Scrum: 0, ½, 1, 2, 3, 5, 8, 13, 20, 40, 100 and ?",
+      "stories": [
+        "72c096e0-9b42-4344-8e0c-c126a8dedbc7",
+        "177b6045-be90-4d0a-9c5d-d673aa55f280",
+        "922b3c6d-e343-4df8-8800-c35335b6e003"
+      ],
+      "userName": "Rene",
+      "organizer": "User1",
+      "participants": [
+        {
+          "id": "User1",
+          "userName": "Rene(moderator)"
+        }
+      ],
+      "id": "12af2b83-f6ce-406c-943c-9610e469a970"
+    },
+    {
+      "name": "Firepoker 6",
+      "description": "Description",
+      "category": "Scrum: 0, ½, 1, 2, 3, 5, 8, 13, 20, 40, 100 and ?",
+      "stories": [
+        "7c38ace8-1a7f-4a10-a2a0-5434e23b8f9a",
+        "550e6504-4148-4f9b-8415-204dd04a9b09",
+        "f126258c-31ee-413b-8623-718d3fa04361"
+      ],
+      "userName": "Rene",
+      "organizer": "User1",
+      "participants": [
+        {
+          "id": "User1",
+          "userName": "Rene(moderator)"
+        }
+      ],
+      "id": "7e0350fe-2061-41b3-8851-7a541440d925"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1d233c7c-85f9-4a6e-b2ea-fbc8373e23ad",
+      "storyName": "Story 1",
+      "estimated": false
+    },
+    {
+      "id": "553c45ca-de10-48fb-bfda-58cf1a0516db",
+      "storyName": "Story 2",
+      "estimated": false
+    },
+    {
+      "id": "d8473915-3d36-43d0-b898-5b648bae1b69",
+      "storyName": "Story 3",
+      "estimated": false
+    },
+    {
+      "id": "29c3e7fa-a179-40a5-9442-946f97fe8dff",
+      "storyName": "Story 1",
+      "estimated": false
+    },
+    {
+      "id": "5df1a7fd-1813-45d2-af2b-85773b9b9002",
+      "storyName": "Story 2",
+      "estimated": false
+    },
+    {
+      "id": "62858f3f-f0f6-4817-84b8-281c89d0385d",
+      "storyName": "Story 3",
+      "estimated": false
+    },
+    {
+      "id": "6fe35f9b-124e-4ac1-9e39-0c565b980a46",
+      "storyName": "Story 1",
+      "estimated": false
+    },
+    {
+      "id": "148553da-5b3b-45e4-85c2-1b17077e8ad6",
+      "storyName": "Story 2",
+      "estimated": false
+    },
+    {
+      "id": "56a90579-1163-4836-9c3e-324654faabbb",
+      "storyName": "Story 3",
+      "estimated": false
+    },
+    {
+      "id": "7ec25bdb-82c5-4f77-95c7-a5347c18d87c",
+      "storyName": "Story 1",
+      "estimated": false
+    },
+    {
+      "id": "64cb6324-6cb0-4cbb-a830-54d2be7f6b90",
+      "storyName": "Story 3",
+      "estimated": false
+    },
+    {
+      "id": "e3c3778c-e688-4746-88f6-aa99581979e9",
+      "storyName": "Story 2",
+      "estimated": false
+    },
+    {
+      "id": "72c096e0-9b42-4344-8e0c-c126a8dedbc7",
+      "storyName": "Story 1",
+      "estimated": false
+    },
+    {
+      "id": "177b6045-be90-4d0a-9c5d-d673aa55f280",
+      "storyName": "Story 2",
+      "estimated": false
+    },
+    {
+      "id": "922b3c6d-e343-4df8-8800-c35335b6e003",
+      "storyName": "Story 3",
+      "estimated": false
+    },
+    {
+      "id": "7c38ace8-1a7f-4a10-a2a0-5434e23b8f9a",
+      "storyName": "Story 1",
+      "estimated": false,
+      "estimate": [
+        {
+          "userID": "User1",
+          "option": "3"
+        },
+        {
+          "userID": "User2",
+          "option": "5"
+        },
+        {
+          "userID": "User3",
+          "option": "8"
+        }
+      ]
+    },
+    {
+      "id": "550e6504-4148-4f9b-8415-204dd04a9b09",
+      "storyName": "Story 2",
+      "estimated": false
+    },
+    {
+      "id": "f126258c-31ee-413b-8623-718d3fa04361",
+      "storyName": "Story 3",
+      "estimated": false
+    }
+  ]
+}
